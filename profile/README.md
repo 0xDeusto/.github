@@ -1,12 +1,21 @@
-## Hi there 👋
+## Kaixo! 👋
 
-<!--
 
-**Here are some ideas to get you started:**
+🎉 **Bienvenid@ a 0xDecode**  
+Comunidad tecnológica de la Universidad de Deusto formada por estudiantes, profesores y apasionados de la informática, el desarrollo y la ciberseguridad.  
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+[https://0xdeusto.github.io/](http://0xdeusto.github.io/)
+
+## 🚀 Qué hacemos  
+- Talleres y cursos  
+- Participación en CTFs y hackathones.  
+- Eventos abiertos: Linux Install Parties, charlas y meetups...  
+
+## 🎯 Misión  
+Crear un espacio donde cualquiera pueda aprender, compartir y crecer profesionalmente.  
+
+## 💬 Únete  
+- [Únete a nuestra comunidad en Discord](https://discord.gg/T8HGqVSJwd)
+- Participa en nuestras actividades en la Universidad de Deusto.  
+- Empresas: contactad con nosotros para descubrir talento motivado.  
+
