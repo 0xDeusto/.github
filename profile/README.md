@@ -4,7 +4,7 @@
 🎉 **Bienvenid@ a 0xDecode**  
 Comunidad tecnológica de la Universidad de Deusto formada por estudiantes, profesores y apasionados de la informática, el desarrollo y la ciberseguridad.  
 
-[https://0xdeusto.github.io/](http://0xdecode.es/)
+[https://0xdecode.es/](http://0xdecode.es/)
 
 ## 🚀 Qué hacemos  
 - Talleres y cursos  
